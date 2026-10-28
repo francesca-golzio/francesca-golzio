@@ -12,7 +12,7 @@
 - How to write **more efficient and secure database queries**
 
 ### I’m currently working on  ✨
-- [**Fantasy League**](https://github.com/francesca-golzio/fantasy_league.git) which is an ongoing project and a (messy) learning lab
+- [**Fantasy League**](https://github.com/francesca-golzio/fantasy_league) which is an ongoing project and a (messy) learning lab
 
 
 ### Let's keep in touch 💜
