@@ -1,7 +1,7 @@
 ![9e36b8 square](https://placehold.co/15x15/9e36b8/9e36b8.png) ![9e36b8 square](https://placehold.co/15x15/9e36b8/9e36b8.png) ![9e36b8 square](https://placehold.co/15x15/9e36b8/9e36b8.png)
 ## Hi there, I'm Francesca 😊
 
-<p align="right"><img src="https://placehold.co/400x50/0d1117/9e36b8?text=%22%20Never%20stop%20Learning!%20%22" alt="Never stop Learning" /></p>
+<p align="right"><img src="https://github.com/francesca-golzio/francesca-golzio/blob/65fb38364fc4065701e48cde0183a07ca6abacbb/neverstoplearning.webp" alt="Never stop Learning" width="300"/></p>
 
 <p align="center">I was a Primary Teacher, <br>thanks to the Boolean Academy, <br>I now am a Fullstack Junior Web Developer, <br>a believer in the power of PHP <br>and still <br>a creative person <br>who loves reading <br>and learning new things.</p>
 
